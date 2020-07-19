@@ -1,0 +1,4 @@
+#Print Meta data
+
+go run md.go
+{"ami-id":"ami-aa941e9a","ami-launch-index":"0","ami-manifest-path":"ubuntu-us-west-2/images
