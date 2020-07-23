@@ -1,0 +1,7 @@
+
+
+var object ={"a":{"b":{"c":"d"}}};  # Object initialisation 
+console.log{"Result at "a.b.c ':",_.get (object,'a.b.c));
+console.log('Result at 'a,b,.non-existent key':  ",_.get (object,"a.b1 nonexistent',
+var object2={"x,": {"y",{"z1":"a1"}}
+console.log("Result at x,y,z': ",.get(object2,'x1.y1.z1'));
